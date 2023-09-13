@@ -1,1 +1,0 @@
-import{_ as e,o as i,c as a,Q as l}from"./chunks/framework.b2e9bf53.js";const _=JSON.parse('{"title":"什么是 Zig","description":"","frontmatter":{},"headers":[],"relativePath":"what-is-zig.md","filePath":"what-is-zig.md"}'),t={name:"what-is-zig.md"},o=l("",18),r=[o];function c(n,p,s,h,d,g){return i(),a("div",null,r)}const b=e(t,[["render",c]]);export{_ as __pageData,b as default};
