@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,Q as o}from"./chunks/framework.01af844e.js";const C=JSON.parse('{"title":"前言","description":"","frontmatter":{"outline":"deep"},"headers":[],"relativePath":"preface.md","filePath":"preface.md"}'),c={name:"preface.md"},i=o("",8),s=[i];function p(r,_,l,n,d,m){return t(),a("div",null,s)}const g=e(c,[["render",p]]);export{C as __pageData,g as default};
