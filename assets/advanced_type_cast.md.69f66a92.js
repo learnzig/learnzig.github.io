@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.01af844e.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"advanced/type_cast.md","filePath":"advanced/type_cast.md"}'),c={name:"advanced/type_cast.md"};function s(n,r,o,d,p,_){return t(),a("div")}const f=e(c,[["render",s]]);export{m as __pageData,f as default};
